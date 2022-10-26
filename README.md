@@ -1,4 +1,4 @@
-# ds-chat
+# socket-chat
 
 CCO06027 - DISTRIBUTED SYSTEMS
 
